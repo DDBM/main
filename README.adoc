@@ -10,10 +10,17 @@ The *DATOM* method by Guillaume Lecuyer and Clement Levallois gives guidance to 
 
 Here you will find the "raw", original content material developed for this methodology.  Use this space if you have questions on this material, or want to submit corrections or suggestions. You will need a Github account.
 
-Human readable license:
+Visit the main website for the method:
+
+- https://datom-method.github.io/main/ (🇺🇸)
+- https://datom-method.github.io/main/index-fr.html (🇫🇷)
+
+== License
 
 - *DATOM is for you to use without restriction in modeling your own or other people's businesses*. If you wish to use the DATOM in original or adapted to sell it as a tool, you must contact the copyright holders, Clément Levallois and Guillaume Lecuyer, for permission.
-
-License:
-
 - Copyright © 2017, Guillaume Lecuyer and Clément levallois
+
+
+== Contact
+
+Get in touch at datom-method@protonmail.com
