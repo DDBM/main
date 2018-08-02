@@ -9,16 +9,6 @@ v1.0, April 2018
 :media: prepress
 :toc:
 :toclevels: 1
-
-<<<
-
-
-{empty} +
-
-
-{empty} +
-
-
 <<<
 
 = Preface
@@ -40,16 +30,6 @@ DATOM is a step-by-step method guiding managers from a stated strategic vision t
 
 
 
-
-<<<
-
-
-{empty} +
-
-
-{empty} +
-
-
 <<<
 
 = Chapter 1. La méthode DATOM
@@ -58,53 +38,67 @@ DATOM is a step-by-step method guiding managers from a stated strategic vision t
 == Les canvas
 
 <<<<
-image::Formulation-des-objectif-stratégiques-de-l'organisation_panorama.png[align="center",title="Formulation des objectif stratégiques de l'organisation",orientation="landscape",book="keep"]
+image::Canevas-01---Formulation-des-objectif-stratégiques-de-l'organisation_panorama.png[align="center",title="Canevas 01 - Formulation des objectif stratégiques de l'organisation",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
 
-image::Identification-de-l'utilisatrice-cible-du-projet_panorama.png[align="center",title="Identification de l'utilisatrice cible du projet",orientation="landscape",book="keep"]
-{nbsp} +
-
-
-<<<<
-
-image::Description-détaillée-de-l'utilisateur-cible_panorama.png[align="center",title="Description détaillée de l'utilisateur cible",orientation="landscape",book="keep"]
-{nbsp} +
-
-<<<<
-image::Description-des-besoins-et-aspirations-de-l'utilisatrice-cible_panorama.png[align="center",title="Description des besoins et aspirations de l'utilisatrice cible",orientation="landscape",book="keep"]
+image::Canevas-02---Identification-de-l'utilisatrice-cible-du-projet_panorama.png[align="center",title="Canevas 02 - Identification de l'utilisatrice cible du projet",orientation="landscape",book="keep"]
 {nbsp} +
 
 
 <<<<
 
-image::Idéation---exploration-des-sources-de-données-potentiellement-intéressantes_panorama.png[align="center",title="Idéation - exploration des sources de données potentiellement intéressantes",orientation="landscape",book="keep"]
+image::Canevas-03---Description-détaillée-de-l'utilisateur-cible_panorama.png[align="center",title="Canevas 03 - Description détaillée de l'utilisateur cible",orientation="landscape",book="keep"]
+{nbsp} +
+
+<<<<
+image::Canevas-04---Description-des-besoins-et-aspirations-de-l'utilisatrice-cible_panorama.png[align="center",title="Canevas 04 - Description des besoins et aspirations de l'utilisatrice cible",orientation="landscape",book="keep"]
+{nbsp} +
+
+
+<<<<
+
+image::Canevas-05---Idéation---explora7ion-des-sources-de-données-potentiellement-intéressantes_panorama.png[align="center",title="Canevas 05 - Idéation - explora7ion des sources de données potentiellement intéressantes",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
 
-image::Examen-détaillé-de-trois-sources-des-données-sélectionnées_panorama.png[align="center",title="Examen détaillé de trois sources des données sélectionnées",orientation="landscape",book="keep"]
+image::Canevas-06---Examen-détaillé-de-trois-sources-des-données-sélectionnées_panorama.png[align="center",title="Canevas 06 - Examen détaillé de trois sources des données sélectionnées",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
 
-image::Aide-à-la-réflexion-sur-une-réponse-aub-besoins-clients_panorama.png[align="center",title="Aide à la réflexion sur une réponse aub besoins clients",orientation="landscape",book="keep"]
+image::Canevas-07--Aide-à-la-réflexion-sur-une-réponse-aub-besoins-clients_panorama.png[align="center",title="Canevas 07- Aide à la réflexion sur une réponse aub besoins clients",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
 
-image::Formalisation-de-la-proposition-de-valeur_panorama.png[align="center",title="Formalisation de la proposition de valeur",orientation="landscape",book="keep"]
+image::Canevas-08---Formalisation-de-la-proposition-de-valeur_panorama.png[align="center",title="Canevas 08 - Formalisation de la proposition de valeur",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
-image::synthèse-quantitative_panorama.png[align="center",title="synthèse quantitative",orientation="landscape",book="keep"]
+image::Canevas-09---Synthèse-quantitative_panorama.png[align="center",title="Canevas 09 - Synthèse quantitative",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
 
 
-image::synthèse-qualitative.png[align="center",title="synthèse qualitative",book="keep"]
+image::Canevas-10---Synthèse-qualitative_panorama.png[align="center",title="Canevas 10 - Synthèse qualitative",book="keep"]
+{nbsp} +
+
+<<<
+<<<
+
+== References
+
+<<<
+
+<<<
+
+[index]
+== Index
+
 {nbsp} +
 
 <<<
