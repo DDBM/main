@@ -1,2 +1,2 @@
 preface-volume-3.adoc
-datom-method_canvas_fr.adoc
+datom-method_canvas.adoc

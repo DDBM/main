@@ -26,7 +26,7 @@ How to identify the strategic objectives of your organisation?
 -> They are typically openly stated by the CEO or top management of your organisation.
 
 <<<<
-image::https://docs.google.com/drawings/d/e/2PACX-1vRvEWrLdGxNGXBXitPRmEElSQKb30zCxF0hQWvWadtdKk5e9CaYJkWLpO94kHWAKpxuGZqnZYQV8A2Q/pub?w=1440&h=1080[align="center",title="Canvas #1 - restating the strategic objectives",orientation="landscape",book=”keep”]
+image::https://docs.google.com/drawings/d/e/2PACX-1vRvEWrLdGxNGXBXitPRmEElSQKb30zCxF0hQWvWadtdKk5e9CaYJkWLpO94kHWAKpxuGZqnZYQV8A2Q/pub?w=1440&h=1080[align="center",title="Canvas #1 - Restating the strategic objectives",orientation="landscape",book=”keep”]
 
 <<<<
 
@@ -42,7 +42,7 @@ Leveraging data to create new products or services can obviously benefit your cl
 
 <<<<
 
-image::https://docs.google.com/drawings/d/e/2PACX-1vSirncWq1--mxtFHtDZG9Yog5iOyNR77X1DtN87BhrjTFoVnTGR8lKIP2PTv8xSeap95ewL0UyHCOen/pub?w=1440&h=1080[align="center",title="Canvas #2 - identifying the target user of the project",orientation="landscape",book=”keep”]
+image::https://docs.google.com/drawings/d/e/2PACX-1vSirncWq1--mxtFHtDZG9Yog5iOyNR77X1DtN87BhrjTFoVnTGR8lKIP2PTv8xSeap95ewL0UyHCOen/pub?w=1440&h=1080[align="center",title="Canvas #2 - Identifying the target user of the project",orientation="landscape",book=”keep”]
 
 <<<<
 
@@ -65,7 +65,7 @@ The identity of the target user of your project is now well defined. At this ste
 - what are their aspirations? - the wishes they express, which ideally would help them accomplish their tasks in better conditions?
 
 <<<<
-image::https://docs.google.com/drawings/d/e/2PACX-1vRa5sTBz-nqRlGphMBqXIiNbGVYFRPrJoYk2qTFbKFaPYV1jK-1w_tTyibA9mFx2M75_w9CnvaUkyyj/pub?w=1440&h=1080[align="center",title="Canvas #4 - mapping the needs of the target user",orientation="landscape",book=”keep”]
+image::https://docs.google.com/drawings/d/e/2PACX-1vRa5sTBz-nqRlGphMBqXIiNbGVYFRPrJoYk2qTFbKFaPYV1jK-1w_tTyibA9mFx2M75_w9CnvaUkyyj/pub?w=1440&h=1080[align="center",title="Canvas #4 - Mapping the needs of the target user",orientation="landscape",book=”keep”]
 
 <<<<
 
@@ -75,7 +75,7 @@ We enter now the stage where we are going to design a project, in response to th
 
 <<<<
 
-image::https://docs.google.com/drawings/d/e/2PACX-1vRYDxTMZJpmCooKemnsY0lpYEyVyI_Pzu4zuxxQzw3yL7-a-IBzYIT2XjAHShRXd0jRsZSqV3BedUT0/pub?w=1440&h=1080[align="center",title="Canvas #5 - ideation on potential data sources",orientation="landscape",book=”keep”]
+image::https://docs.google.com/drawings/d/e/2PACX-1vRYDxTMZJpmCooKemnsY0lpYEyVyI_Pzu4zuxxQzw3yL7-a-IBzYIT2XjAHShRXd0jRsZSqV3BedUT0/pub?w=1440&h=1080[align="center",title="Canvas #5 - Ideation on potential data sources",orientation="landscape",book=”keep”]
 
 <<<<
 
@@ -98,7 +98,7 @@ Select the 3 data sets which you think will provide most value for your project,
 
 <<<<
 
-image::https://docs.google.com/drawings/d/e/2PACX-1vRnerU1y55hKGRFJ6eV8f5q_gh75NyAC_FwXLow15pwzQhhcSYn_fOVva8_PCI3qHvnUabgdzrSkgXU/pub?w=1440&h=1080[align="center",title="Canvas #6 - detailing up to 3 data sources",orientation="landscape",book=”keep”]
+image::https://docs.google.com/drawings/d/e/2PACX-1vRnerU1y55hKGRFJ6eV8f5q_gh75NyAC_FwXLow15pwzQhhcSYn_fOVva8_PCI3qHvnUabgdzrSkgXU/pub?w=1440&h=1080[align="center",title="Canvas #6 - Detailing up to 3 data sources",orientation="landscape",book=”keep”]
 
 <<<<
 
@@ -118,7 +118,7 @@ If the dataset stands the challenge, you can keep it and move on to the next one
 
 <<<<
 
-image::https://docs.google.com/drawings/d/e/2PACX-1vTpVTkSNE9GBsC2bYLZtrtc1wJwjw3gg19LldSJam_nnAc6aBostJzPL58CS7wI_h9OmSNzNilDHANi/pub?w=1440&h=1080[align="center",title="Canvas #7 - brainstorming on data x target user needs",orientation="landscape",book=”keep”]
+image::https://docs.google.com/drawings/d/e/2PACX-1vTpVTkSNE9GBsC2bYLZtrtc1wJwjw3gg19LldSJam_nnAc6aBostJzPL58CS7wI_h9OmSNzNilDHANi/pub?w=1440&h=1080[align="center",title="Canvas #7 - Brainstorming on data x target user needs",orientation="landscape",book=”keep”]
 
 <<<<
 
@@ -137,7 +137,7 @@ The canvas is split in five areas:
 
 <<<<
 
-image::https://docs.google.com/drawings/d/e/2PACX-1vQ9fjoNfV4B2-9vTEA-YCr6fLnsmamOz53_7Dg3pi7cO4EJRY3Mbde-S9GrbzIPsDxKc3oL_fsYqggJ/pub?w=1440&h=1080[align="center",title="Canvas #8 - formalizing the value proposition",orientation="landscape",book=”keep”]
+image::https://docs.google.com/drawings/d/e/2PACX-1vQ9fjoNfV4B2-9vTEA-YCr6fLnsmamOz53_7Dg3pi7cO4EJRY3Mbde-S9GrbzIPsDxKc3oL_fsYqggJ/pub?w=1440&h=1080[align="center",title="Canvas #8 - Formalizing the value proposition",orientation="landscape",book=”keep”]
 
 <<<<
 
@@ -155,7 +155,7 @@ Most of the dimensions on the graph are already familiar. Some need an explanati
 
 
 <<<<
-image::https://docs.google.com/drawings/d/e/2PACX-1vQgUxKVRVO_fcZofM5O07bAyH2skaIe6HKhfbokUC2c_qjolpJiVxtMMmGRBLaVlLQpyoGXxP6DgnxB/pub?w=1440&h=1080[align="center",title="Canvas #9: - synthesis - in a visual format",orientation="landscape",book=”keep”]
+image::https://docs.google.com/drawings/d/e/2PACX-1vQgUxKVRVO_fcZofM5O07bAyH2skaIe6HKhfbokUC2c_qjolpJiVxtMMmGRBLaVlLQpyoGXxP6DgnxB/pub?w=1440&h=1080[align="center",title="Canvas #9 - Synthesis - in a visual format",orientation="landscape",book=”keep”]
 
 <<<<
 
@@ -165,6 +165,6 @@ This canvas helps you synthesize your project as a short memo sheet.
 
 <<<<
 
-image::https://docs.google.com/drawings/d/e/2PACX-1vR_hTQJcc1rilsBomf66KhpcXtieVTc0QAWS8rtUTCh2QY9PrlB5Z81UNUTO3S2OOSjqGHOMCZohFq6/pub?w=1191&h=1684[align="center",title="Canvas #10 - synthesis - as a written memo",book=”keep”]
+image::https://docs.google.com/drawings/d/e/2PACX-1vR_hTQJcc1rilsBomf66KhpcXtieVTc0QAWS8rtUTCh2QY9PrlB5Z81UNUTO3S2OOSjqGHOMCZohFq6/pub?w=1191&h=1684[align="center",title="Canvas #10 - Synthesis - as a written memo",book=”keep”]
 
 <<<
