@@ -69,7 +69,7 @@ How to identify the strategic objectives of your organisation?
 -> They are typically openly stated by the CEO or top management of your organisation.
 
 <<<<
-image::Canvas-#1---Restating-the-strategic-objectives_panorama.png[align="center",title="Canvas #1 - Restating the strategic objectives",orientation="landscape",book=”keep”]
+image::Canvas-#1---Restating-the-strategic-objectives_panorama.png[align="center",title="Canvas #1 - Restating the strategic objectives",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
@@ -86,7 +86,7 @@ Leveraging data to create new products or services can obviously benefit your cl
 
 <<<<
 
-image::Canvas-#2---Identifying-the-target-user-of-the-project_panorama.png[align="center",title="Canvas #2 - Identifying the target user of the project",orientation="landscape",book=”keep”]
+image::Canvas-#2---Identifying-the-target-user-of-the-project_panorama.png[align="center",title="Canvas #2 - Identifying the target user of the project",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
@@ -97,7 +97,7 @@ Once you have defined the target user you want to serve (see previous canvas), t
 
 <<<<
 
-image::Canvas-#3---Detailing-the-target-user-with-an-avatar_panorama.png[align="center",title="Canvas #3 - Detailing the target user with an avatar",orientation="landscape",book=”keep”]
+image::Canvas-#3---Detailing-the-target-user-with-an-avatar_panorama.png[align="center",title="Canvas #3 - Detailing the target user with an avatar",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
@@ -111,7 +111,7 @@ The identity of the target user of your project is now well defined. At this ste
 - what are their aspirations? - the wishes they express, which ideally would help them accomplish their tasks in better conditions?
 
 <<<<
-image::Canvas-#4---Mapping-the-needs-of-the-target-user_panorama.png[align="center",title="Canvas #4 - Mapping the needs of the target user",orientation="landscape",book=”keep”]
+image::Canvas-#4---Mapping-the-needs-of-the-target-user_panorama.png[align="center",title="Canvas #4 - Mapping the needs of the target user",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
@@ -122,7 +122,7 @@ We enter now the stage where we are going to design a project, in response to th
 
 <<<<
 
-image::Canvas-#5---Ideation-on-potential-data-sources_panorama.png[align="center",title="Canvas #5 - Ideation on potential data sources",orientation="landscape",book=”keep”]
+image::Canvas-#5---Ideation-on-potential-data-sources_panorama.png[align="center",title="Canvas #5 - Ideation on potential data sources",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
@@ -146,7 +146,7 @@ Select the 3 data sets which you think will provide most value for your project,
 
 <<<<
 
-image::Canvas-#6---Detailing-up-to-3-data-sources_panorama.png[align="center",title="Canvas #6 - Detailing up to 3 data sources",orientation="landscape",book=”keep”]
+image::Canvas-#6---Detailing-up-to-3-data-sources_panorama.png[align="center",title="Canvas #6 - Detailing up to 3 data sources",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
@@ -167,7 +167,7 @@ If the dataset stands the challenge, you can keep it and move on to the next one
 
 <<<<
 
-image::Canvas-#7---Brainstorming-on-data-x-target-user-needs_panorama.png[align="center",title="Canvas #7 - Brainstorming on data x target user needs",orientation="landscape",book=”keep”]
+image::Canvas-#7---Brainstorming-on-data-x-target-user-needs_panorama.png[align="center",title="Canvas #7 - Brainstorming on data x target user needs",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
@@ -187,7 +187,7 @@ The canvas is split in five areas:
 
 <<<<
 
-image::Canvas-#8---Formalizing-the-value-proposition_panorama.png[align="center",title="Canvas #8 - Formalizing the value proposition",orientation="landscape",book=”keep”]
+image::Canvas-#8---Formalizing-the-value-proposition_panorama.png[align="center",title="Canvas #8 - Formalizing the value proposition",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
@@ -206,7 +206,7 @@ Most of the dimensions on the graph are already familiar. Some need an explanati
 
 
 <<<<
-image::Canvas-#9---Synthesis---in-a-visual-format_panorama.png[align="center",title="Canvas #9 - Synthesis - in a visual format",orientation="landscape",book=”keep”]
+image::Canvas-#9---Synthesis---in-a-visual-format_panorama.png[align="center",title="Canvas #9 - Synthesis - in a visual format",orientation="landscape",book="keep"]
 {nbsp} +
 
 <<<<
@@ -217,7 +217,7 @@ This canvas helps you synthesize your project as a short memo sheet.
 
 <<<<
 
-image::Canvas-#10---Synthesis---as-a-written-memo_panorama.png[align="center",title="Canvas #10 - Synthesis - as a written memo",book=”keep”]
+image::Canvas-#10---Synthesis---as-a-written-memo.png[align="center",title="Canvas #10 - Synthesis - as a written memo",book="keep"]
 {nbsp} +
 
 <<<
@@ -251,3 +251,38 @@ image::Canvas-#10---Synthesis---as-a-written-memo_panorama.png[align="center",ti
 
 [index]
 == Index
+esis---in-a-visual-format.png[align="center",title="Canvas #9 - Synthesis - in a visual format",orientation="landscape",book="keep"]
+{nbsp} +
+null
+<<<<null
+null
+== Step 10: Memo synthesisnull
+=== What you accomplish at this stepnull
+This canvas helps you synthesize your project as a short memo sheet.null
+null
+<<<<null
+null
+image::Canvas-#10---Synthesis---as-a-written-memo.png[align="center",title="Canvas #10 - Synthesis - as a written memo",book="keep"]
+{nbsp} +
+null
+<<<null
+null
+<<<null
+null
+null
+{empty} +null
+null
+null
+{empty} +null
+null
+null
+<<<null
+null
+== Referencesnull
+null
+<<<null
+null
+<<<null
+null
+[index]null
+== Indexnull

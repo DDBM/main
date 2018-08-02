@@ -1,5 +1,5 @@
 = La méthode DATOM
-Guillaume Lecuyer <glecuyer@visiativ.com>;Clément Levallois <levallois@em-lyon.com>
+Guillaume Lecuyer;Clément Levallois
 2017-06-19
 
 last modified: {docdate}
@@ -11,10 +11,10 @@ last modified: {docdate}
 ifndef::imagesdir[:imagesdir: ../images]
 ifndef::sourcedir[:sourcedir: ../../../main/java]
 
-== Les canvas
+== Les canevas
 
 <<<<
-image::https://docs.google.com/drawings/d/e/2PACX-1vTUqu3_9w338Nmpz5gMVWRaMaJGEhsFBS2cJV_Nigq7xRM9lNZyWyuH_INWzGKxVIXbN647XbJOzplN/pub?w=1440&h=1080[align="center",title="Canevas 01 - Formulation des objectif stratégiques de l'organisation",orientation="landscape",book="keep"]
+image::https://docs.google.com/drawings/d/e/2PACX-1vTUqu3_9w338Nmpz5gMVWRaMaJGEhsFBS2cJV_Nigq7xRM9lNZyWyuH_INWzGKxVIXbN647XbJOzplN/pub?w=1440&h=1080[align="center",title="Canevas 01 - Formulation des objectifs stratégiques de l'organisation",orientation="landscape",book="keep"]
 
 <<<<
 
@@ -23,7 +23,7 @@ image::https://docs.google.com/drawings/d/e/2PACX-1vTvliO2YHTv65ObEW3A5-YFcgDjw7
 
 <<<<
 
-image::https://docs.google.com/drawings/d/e/2PACX-1vTm6Hp6PCg4WfGJva-zdxwASTkeyawrSMHNahx956Ga6XiTSiTp9QgDGQl_Sx0Hmx0CYXFVg9SnEMex/pub?w=1440&h=1080[align="center",title="Canevas 03 - Description détaillée de l'utilisateur cible",orientation="landscape",book="keep"]
+image::https://docs.google.com/drawings/d/e/2PACX-1vTm6Hp6PCg4WfGJva-zdxwASTkeyawrSMHNahx956Ga6XiTSiTp9QgDGQl_Sx0Hmx0CYXFVg9SnEMex/pub?w=1440&h=1080[align="center",title="Canevas 03 - Description détaillée de l'utilisatrice cible",orientation="landscape",book="keep"]
 
 <<<<
 image::https://docs.google.com/drawings/d/e/2PACX-1vTs8EUrU4KQzExlErhBGqIW3EkEtSUJadldJuiIy-MO2M_bFy1sJS6p_yzdZyxH4cKAvoUvUhHavogS/pub?w=1440&h=1080[align="center",title="Canevas 04 - Description des besoins et aspirations de l'utilisatrice cible",orientation="landscape",book="keep"]
@@ -31,7 +31,7 @@ image::https://docs.google.com/drawings/d/e/2PACX-1vTs8EUrU4KQzExlErhBGqIW3EkEtS
 
 <<<<
 
-image::https://docs.google.com/drawings/d/e/2PACX-1vSIhIgqulkB4zVDYNxtaIjjOR4PpLOF_rOpll5ciPYzVJKtMB3hp6A6pcB_qOF8_xKCpHPo8yd0hOl4/pub?w=1440&h=1080[align="center",title="Canevas 05 - Idéation - explora7ion des sources de données potentiellement intéressantes",orientation="landscape",book="keep"]
+image::https://docs.google.com/drawings/d/e/2PACX-1vSIhIgqulkB4zVDYNxtaIjjOR4PpLOF_rOpll5ciPYzVJKtMB3hp6A6pcB_qOF8_xKCpHPo8yd0hOl4/pub?w=1440&h=1080[align="center",title="Canevas 05 - Idéation - exploration des sources de données potentiellement intéressantes",orientation="landscape",book="keep"]
 
 <<<<
 
@@ -39,7 +39,7 @@ image::https://docs.google.com/drawings/d/e/2PACX-1vS_6PQpzl5FAewV1aOlxERvzM42jX
 
 <<<<
 
-image::https://docs.google.com/drawings/d/e/2PACX-1vQDO993PzdgVRgYtdTb6LdqMK0p2Ckh3CzvPV6fiDLID5Zk_22TKoMUZ4UxmAPZODbxzq3_5V7rcs8-/pub?w=1440&h=1080[align="center",title="Canevas 07- Aide à la réflexion sur une réponse aub besoins clients",orientation="landscape",book="keep"]
+image::https://docs.google.com/drawings/d/e/2PACX-1vQDO993PzdgVRgYtdTb6LdqMK0p2Ckh3CzvPV6fiDLID5Zk_22TKoMUZ4UxmAPZODbxzq3_5V7rcs8-/pub?w=1440&h=1080[align="center",title="Canevas 07- Aide à la réflexion sur une réponse aux besoins clients",orientation="landscape",book="keep"]
 
 <<<<
 
