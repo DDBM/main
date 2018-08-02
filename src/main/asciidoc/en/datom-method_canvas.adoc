@@ -1,0 +1,168 @@
+= The DATOM method
+Guillaume Lecuyer <glecuyer@visiativ.com>;Clément Levallois <levallois@em-lyon.com>
+2017-06-19
+
+last modified: {docdate}
+
+:icons!:
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+ifndef::imagesdir[:imagesdir: ../images]
+ifndef::sourcedir[:sourcedir: ../../../main/java]
+
+
+== Step 1: Restating the strategic objectives of the organisation
+=== What you accomplish at this step
+
+Designing a business project can lead to results of great interest, except that it does not fit with the goals of the organisation.
+
+*In step 1, we help you state what are the goals of your organisation*, so that it becomes clear what type of project will contribute to these goals. We call these goals “strategic objectives”.
+
+The strategic objectives of an organisation are the key guiding principles defined by its executives. They define the priorities an organisation must concentrate on to accomplish its vision.
+
+How to identify the strategic objectives of your organisation?
+
+-> They are typically openly stated by the CEO or top management of your organisation.
+
+<<<<
+image::https://docs.google.com/drawings/d/e/2PACX-1vRvEWrLdGxNGXBXitPRmEElSQKb30zCxF0hQWvWadtdKk5e9CaYJkWLpO94kHWAKpxuGZqnZYQV8A2Q/pub?w=1440&h=1080[align="center",title="restating the strategic objectives",orientation="landscape",book=”keep”]
+
+<<<<
+
+== Step 2: Identifying the target user
+=== What you accomplish at this step
+
+Leveraging data to create new products or services can obviously benefit your clients - but that is just one possible target user. This canvas helps you consider other possible targets:
+
+- Headquarters / Corporate / Support functions. Accounting, finance, corporate communication... could your project serve their needs?
+- Production: through optimization of costs and time, can your project make a positive impact on production?
+- Customers: the current end users of your organization. Would a data-enhanced product or service be beneficial to them?
+- New markets: can you aim at developing on new markets thanks to a new data-driven product or service?
+
+<<<<
+
+image::https://docs.google.com/drawings/d/e/2PACX-1vSirncWq1--mxtFHtDZG9Yog5iOyNR77X1DtN87BhrjTFoVnTGR8lKIP2PTv8xSeap95ewL0UyHCOen/pub?w=1440&h=1080[align="center",title="identifying the target user of the project",orientation="landscape",book=”keep”]
+
+<<<<
+
+== Step 3: Profiling the avatar of the target user
+=== What you accomplish at this step
+Once you have defined the target user you want to serve (see previous canvas), this new canvas helps you get a more precise idea of who this target is.
+
+<<<<
+
+image::https://docs.google.com/drawings/d/e/2PACX-1vSXTUGdreG-g_IJFlV8lLoccfliFRG9hrf01Vfer2iDqGwr3-kYoa9hYmRFN2T5zMssCzUAoevhPkcn/pub?w=1440&h=1080[align="center",title="Detailing the target user with an avatar",orientation="landscape",book=”keep”]
+
+<<<<
+
+== Step 4: Mapping the needs of the target user
+=== What you accomplish at this step
+The identity of the target user of your project is now well defined. At this step, we define the needs of this user:
+
+- what tasks are they trying to accomplish in the normal course of their activity?
+- what are their pains - the obstacles slowing them down or hurting them in some sense, when they accomplish their tasks?
+- what are their aspirations? - the wishes they express, which ideally would help them accomplish their tasks in better conditions?
+
+<<<<
+image::https://docs.google.com/drawings/d/e/2PACX-1vRa5sTBz-nqRlGphMBqXIiNbGVYFRPrJoYk2qTFbKFaPYV1jK-1w_tTyibA9mFx2M75_w9CnvaUkyyj/pub?w=1440&h=1080[align="center",title="mapping the needs of the target user",orientation="landscape",book=”keep”]
+
+<<<<
+
+== Step 5: Listing the data sources available
+=== What you accomplish at this step
+We enter now the stage where we are going to design a project, in response to the needs of the target user. With this canvas, we are listing all possible sources of data which could play a role in our product or service. No need yet to be specific or definitive. Just list as many datasets which _could_ be of interest. These datasets can be available in your organization but you can also list datasets which your organization would need to acquire or generate.
+
+<<<<
+
+image::https://docs.google.com/drawings/d/e/2PACX-1vRYDxTMZJpmCooKemnsY0lpYEyVyI_Pzu4zuxxQzw3yL7-a-IBzYIT2XjAHShRXd0jRsZSqV3BedUT0/pub?w=1440&h=1080[align="center",title="ideation on potential data sources",orientation="landscape",book=”keep”]
+
+<<<<
+
+== Step 6: Selecting up to 3 data sources
+=== What you accomplish at this step
+Now that you have listed the data sources at your disposition, the next step consists in identifying those that will provide the highest value at the lowest cost. This canvas helps you rank your data sources along key dimensions like machine readability, data completion, etc.
+
+=== How to use the canvas
+
+Select the 3 data sets which you think will provide most value for your project, and for each dataset, give a grade between 1 and 5: 1 being the hardest and 5 the easiest for the following dimensions.
+
+1. Machine readable: data that exists in a database or a comma-separated value (.csv) file is easier to read than if it is stored in a Word document or a .pdf.
+2. Structured or not: Free text is harder to use than structured data stored in a database
+3. Follows universal categories or is company-specific: data that follows standard categorization, like the ones provided by national and international statistics organizations (e.g. Eurostat) is easier to analyze than if the categorization is specific to your company
+4. Time series: data that is collected regularly across time will provide better results in the long term than punctual data
+5. Personal and sensitive data: The more personal and sensitive data is, the more constraints it generates (GDPR, etc.), and therefore the harder it is to use
+6. Complete: the more complete the data, the easier it is to use
+
+-> sum up the grades at the last line of the table. Higher scores show which dataset is going to be comparatively easier to manage in your project.
+
+<<<<
+
+image::https://docs.google.com/drawings/d/e/2PACX-1vRnerU1y55hKGRFJ6eV8f5q_gh75NyAC_FwXLow15pwzQhhcSYn_fOVva8_PCI3qHvnUabgdzrSkgXU/pub?w=1440&h=1080[align="center",title="detailing up to 3 data sources",orientation="landscape",book=”keep”]
+
+<<<<
+
+
+== Step 7: Brainstorming on data x the need of the target user
+
+=== What you accomplish at this step
+In this step, you will put the datasets you have selected to the test: do they really contribute to providing a service meeting the needs of your target user? Is the solution still aligned with your company’s strategic objectives ?
+=== How to use the canvas
+Follow this iterative process:
+Pick one of the datasets
+Define how the selected dataset contributes to a service meeting the needs of your target users
+Challenge the results:
+Is the solution still aligned with your company’s strategic objectives ?
+Is the user really gaining value from the solution ?
+If the dataset stands the challenge, you can keep it and move on to the next one. If it doesn’t, discard it and replace it.
+
+<<<<
+
+image::https://docs.google.com/drawings/d/e/2PACX-1vTpVTkSNE9GBsC2bYLZtrtc1wJwjw3gg19LldSJam_nnAc6aBostJzPL58CS7wI_h9OmSNzNilDHANi/pub?w=1440&h=1080[align="center",title="brainstorming on data x target user needs",orientation="landscape",book=”keep”]
+
+<<<<
+
+== Step 8: Formalizing the value proposition
+=== What you accomplish at this step
+In this step, you will summarize the value proposition of the solution you have identified, based on the datasets you have selected. The objective is to list the key features of the solution, as well as describe how it helps solve the target user’s problems and how it creates value for the target user.
+
+=== How to use the canvas
+The canvas is split in three areas:
+
+- Products and services: In this area, you list the main functionalities that your solution provides to the target user(s).
+- Pain relievers: explain how your product solves the pain points listed in step 4
+- Gain creators: explain how your product meets the aspirations listed in step 4
+
+<<<<
+
+image::https://docs.google.com/drawings/d/e/2PACX-1vQ9fjoNfV4B2-9vTEA-YCr6fLnsmamOz53_7Dg3pi7cO4EJRY3Mbde-S9GrbzIPsDxKc3oL_fsYqggJ/pub?w=1440&h=1080[align="center",title="formalizing the value proposition",orientation="landscape",book=”keep”]
+
+<<<<
+
+== Step 9: Graphical synthesis
+=== What you accomplish at this step
+This canvas helps you synthesize in a graphical manner the strengths and weaknesses of your project.
+
+=== How to use the canvas
+Most of the dimensions on the graph are already familiar. Some need an explanation:
+
+- organization readiness: is your organization well equipped to conduct the project you just designed? In other words, is your project perfect... but can your organization do it, given its ressources, organization culture, etc?
+- network and learning effects: some products or services bring some great additional benefits. Network effects mean that once your product has many users, it becomes harder for your competitors to launch a rival. Think Facebook: it would be hard today to launch a competitor, just because network effects favor Facebook so much. Learning effects refer to the products or services which improve in performance, the more they are used. Think Google Translate: the more people use it and give feedback on translations, the better the performance.
+
+
+
+
+<<<<
+image::https://docs.google.com/drawings/d/e/2PACX-1vQgUxKVRVO_fcZofM5O07bAyH2skaIe6HKhfbokUC2c_qjolpJiVxtMMmGRBLaVlLQpyoGXxP6DgnxB/pub?w=1440&h=1080[align="center",title="synthesis - in a visual format",orientation="landscape",book=”keep”]
+
+<<<<
+
+== Step 10: Memo synthesis
+=== What you accomplish at this step
+This canvas helps you synthesize your project as a short memo sheet.
+
+<<<<
+
+image::https://docs.google.com/drawings/d/e/2PACX-1vR_hTQJcc1rilsBomf66KhpcXtieVTc0QAWS8rtUTCh2QY9PrlB5Z81UNUTO3S2OOSjqGHOMCZohFq6/pub?w=1191&h=1684[align="center",title="synthesis - as a written memo",book=”keep”]
+
+<<<
