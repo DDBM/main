@@ -1,4 +1,4 @@
-= DATOM method
+= DDBM method
 Guillame Lecuyer, Clément Levallois <clementlevallois@protonmail.com>
 2017-10-22
 :revnumber: 1.0
@@ -6,21 +6,21 @@ Guillame Lecuyer, Clément Levallois <clementlevallois@protonmail.com>
 ifndef::imagesdir[:imagesdir: images]
 ifndef::sourcedir[:sourcedir: ../../main/java]
 
-The *DATOM* method by Guillaume Lecuyer and Clement Levallois gives guidance to managers of organisations to develop data-centric products and services.
+The *DDBM* method by Guillaume Lecuyer and Clement Levallois gives guidance to managers of organisations to develop data-centric products and services.
 
 Here you will find the "raw", original content material developed for this methodology.  Use this space if you have questions on this material, or want to submit corrections or suggestions. You will need a Github account.
 
 Visit the main website for the method:
 
-- https://datom-method.github.io/main/ (🇺🇸)
-- https://datom-method.github.io/main/index-fr.html (🇫🇷)
+- https://DDBM.github.io/main/ (🇺🇸)
+- https://DDBM.github.io/main/index-fr.html (🇫🇷)
 
 == License
 
-- *DATOM is for you to use without restriction in modeling your own or other people's businesses*. If you wish to use the DATOM in original or adapted to sell it as a tool, you must contact the copyright holders, Clément Levallois and Guillaume Lecuyer, for permission.
-- Copyright © 2017, Guillaume Lecuyer and Clément levallois
+- *DDBM is for you to use without restriction in modeling your own or other people's businesses*. If you wish to use the DDBM in original or adapted to sell it as a tool, you must contact the copyright holder, emlyon business school, for permission.
+- Copyright © 2017, emlyon business school.
 
 
 == Contact
 
-Get in touch at datom-method@protonmail.com
+Get in touch at DDBM-method@protonmail.com
